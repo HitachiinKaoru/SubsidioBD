@@ -1,0 +1,25 @@
+C:\Users\Hitachiin-Sama\Documents\GitHub\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Hitachiin-Sama\Documents\GitHub\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Hitachiin-Sama\Documents\GitHub\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Hitachiin-Sama\Documents\GitHub\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+D:\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+D:\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Hitachiin-Sama\Documents\GitHub\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\Hitachiin-Sama\Desktop\UnBreakable - PROFE\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Hitachiin-Sama\Desktop\UnBreakable - PROFE\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Hitachiin-Sama\Desktop\UnBreakable - PROFE\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\Hitachiin-Sama\Desktop\UnBreakable - PROFE\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Hitachiin-Sama\Desktop\UnBreakable - PROFE\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
