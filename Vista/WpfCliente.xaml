@@ -1,0 +1,47 @@
+﻿<Controls:MetroWindow x:Class="Vista.WpfCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      
+        xmlns:local="clr-namespace:Vista"
+        mc:Ignorable="d"    
+        Title="OnBreak - Administrar Cliente" Height="470.667" Width="528.666" WindowStartupLocation="CenterScreen" Cursor="Arrow" FontWeight="Bold" WindowTitleBrush="Black" Background="#FF84D9E8" Icon="Imagenes/white_logo_dark_background.jpg">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="257*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="409" VerticalAlignment="Top" Width="516" Margin="-1,0,0,-0.333" Grid.ColumnSpan="2">
+            <Label x:Name="label" Content="Rut:" HorizontalAlignment="Left" Margin="18,28,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy" Content="Razón Social:" HorizontalAlignment="Left" Margin="18,60,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy1" Content="Nombre de Contacto:" HorizontalAlignment="Left" Margin="18,91,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy2" Content="Email:" HorizontalAlignment="Left" Margin="18,122,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy3" Content="Dirección:" HorizontalAlignment="Left" Margin="18,152,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy4" Content="Teléfono:" HorizontalAlignment="Left" Margin="18,186,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy5" Content="Actividad de la empresa:" HorizontalAlignment="Left" Margin="18,224,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label_Copy6" Content="&#xD;&#xA;Tipo de empresa:" HorizontalAlignment="Left" Margin="18,247,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtRut" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Rut" Height="8" Margin="187,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal"/>
+            <TextBox x:Name="txtRazon" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Razón Social" Height="8" Margin="187,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal"/>
+            <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Nombre de contacto" Height="8" Margin="187,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontWeight="Normal"/>
+            <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Email" Height="8" Margin="187,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontWeight="Normal"/>
+            <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Dirección" Height="8" Margin="187,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontWeight="Normal"/>
+            <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Teléfono" Height="8" Margin="187,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal"/>
+            <ComboBox x:Name="cbActividad" HorizontalAlignment="Left" Margin="187,224,0,0" VerticalAlignment="Top" Width="170" FontWeight="Normal"/>
+            <ComboBox x:Name="cbTipo" HorizontalAlignment="Left" Margin="187,263,0,0" VerticalAlignment="Top" Width="170" FontWeight="Normal"/>
+            <Button x:Name="btnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="230,342,0,0" VerticalAlignment="Top" Width="75" Cursor="Arrow" FontWeight="Normal" Controls:ButtonHelper.PreserveTextCase="True" Click="btnGuardar_Click" RenderTransformOrigin="1.662,0.727"/>
+            <Button x:Name="btnCancelar" Content="Salir" HorizontalAlignment="Left" Margin="397,389,0,-8" VerticalAlignment="Top" Width="75" FontWeight="Normal" Click="btnCancelar_Click"/>
+            <Button x:Name="btnPregunta" Content="?" HorizontalAlignment="Left" Margin="354,29,0,0" VerticalAlignment="Top" Width="33" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnPregunta_Click"/>
+            <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="408,29,0,0" VerticalAlignment="Top" Width="74" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnBuscar_Click"/>
+            <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="65,342,0,0" VerticalAlignment="Top" Width="75" FontWeight="Normal" Click="btnLimpiar_Click"/>
+            <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="397,341,0,0" VerticalAlignment="Top" Width="75" FontWeight="Normal" BorderBrush="#FF707070" Click="btnEliminar_Click"/>
+            <Button x:Name="btnModificar" Content="Actualizar" HorizontalAlignment="Left" Margin="230,389,0,-8" VerticalAlignment="Top" Width="85" FontWeight="Normal" BorderBrush="#FF707070" Click="btnModificar_Click" />
+        </Grid>
+
+    </Grid>
+</Controls:MetroWindow>
